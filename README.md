@@ -15,5 +15,5 @@ $ pip install -r requirements.txt
 
 Then to start the server:
 ```
-uvicorn api.main:app
+$ uvicorn api.main:app
 ```
